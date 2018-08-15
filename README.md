@@ -1,2 +1,2 @@
-# Block-Google-Doodle-Hosts-File
-Block Google doodle using adblocker
+#Block ads hosts file
+Block ads using adblocker
