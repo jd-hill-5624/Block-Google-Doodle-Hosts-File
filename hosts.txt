@@ -1,3 +1,4 @@
 #Blocks Google Doodle
 127.0.0.1 google.com###lga
 127.0.0.1 google.com###hplogo
+#Block Snapchat Ads
