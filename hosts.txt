@@ -1,12 +1,14 @@
-#Blocks Google Doodle
+
 127.0.0.1 google.com###lga
 127.0.0.1 google.com###hplogo
-#Block Snapchat Ads
+http://google.com/logos/*
+https://google.com/logos/*
+http://www.google.com/logos/*
+https://www.google.com/logos/*
+
 usc.adserver.snapads.com
 app-analytics.snapchat.com
 graph.instagram.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 google-analytics.com
-facebook.com/plugins/
-connect.facebook.com
-connect.facebook.net
+
